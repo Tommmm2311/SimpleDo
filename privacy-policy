@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - TodoList</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité - TodoList</h1>
+    <p>Dernière mise à jour : [Date]</p>
+
+    <h2>Introduction</h2>
+    <p>TodoList respecte la vie privée de ses utilisateurs. Cette politique de confidentialité explique comment nous gérons vos données.</p>
+
+    <h2>Collecte et Utilisation des Données</h2>
+    <p>TodoList stocke uniquement les données que vous créez directement dans l'application :</p>
+    <ul>
+        <li>Titres des tâches</li>
+        <li>Notes associées aux tâches</li>
+        <li>Dates d'échéance</li>
+        <li>Priorités des tâches</li>
+    </ul>
+
+    <h2>Stockage des Données</h2>
+    <p>Toutes les données sont stockées localement sur votre appareil. Nous ne collectons ni ne transférons aucune donnée vers des serveurs externes.</p>
+
+    <h2>Protection des Données</h2>
+    <p>Vos données sont protégées par le système de sécurité intégré d'iOS.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question concernant cette politique de confidentialité, contactez-nous à : [Votre email]</p>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - TodoList</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité - TodoList</h1>
+    <p>Dernière mise à jour : [Date]</p>
+
+    <h2>Introduction</h2>
+    <p>TodoList respecte la vie privée de ses utilisateurs. Cette politique de confidentialité explique comment nous gérons vos données.</p>
+
+    <h2>Collecte et Utilisation des Données</h2>
+    <p>TodoList stocke uniquement les données que vous créez directement dans l'application :</p>
+    <ul>
+        <li>Titres des tâches</li>
+        <li>Notes associées aux tâches</li>
+        <li>Dates d'échéance</li>
+        <li>Priorités des tâches</li>
+    </ul>
+
+    <h2>Stockage des Données</h2>
+    <p>Toutes les données sont stockées localement sur votre appareil. Nous ne collectons ni ne transférons aucune donnée vers des serveurs externes.</p>
+
+    <h2>Protection des Données</h2>
+    <p>Vos données sont protégées par le système de sécurité intégré d'iOS.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question concernant cette politique de confidentialité, contactez-nous à : [Votre email]</p>
+</body>
+</html>
